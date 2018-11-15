@@ -59,7 +59,7 @@ body{margin: o;
     width:100%;
     height:100px;;
     overflow: hidden;
-    background-repeat: url(img/footer.jpg);
+    background-repeat: url(footer.jpg);
     background-position: center center;
     background-size: cover;
 }
@@ -71,7 +71,7 @@ aside {
 #slogan {
     width:100%;
     height:100px;
-    background-image: url(img/footer.jpg);
+    background-image: url(footer.jpg);
     background-position: center center;
     background-repeat: no-repeat;
     background-size:cover;
